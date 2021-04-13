@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on technologies related to <strong>Javascript</strong> Family
 
-📜 Here are my recent Certifications: 
+📜 Here are my recent Certifications:
+
 🛠️ Web Components & Stencil.js - Build Custom HTML Elements 
   https://www.udemy.com/certificate/UC-70b7dcab-afa2-4659-974b-0b48e081173d/
   
