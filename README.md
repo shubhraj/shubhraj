@@ -4,6 +4,9 @@
 📜 Here are my recent Certifications: 
 🛠️ Web Components & Stencil.js - Build Custom HTML Elements 
   https://www.udemy.com/certificate/UC-70b7dcab-afa2-4659-974b-0b48e081173d/
+  
+🛠️ Learning ECMAScript 6+ (ES6+)
+  https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus?trk=share_certificate
 
 <!--
 **shubhraj/shubhraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
