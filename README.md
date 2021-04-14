@@ -9,6 +9,9 @@ https://www.udemy.com/certificate/UC-70b7dcab-afa2-4659-974b-0b48e081173d/
 🛠️ Learning ECMAScript 6+ (ES6+)
 https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus?trk=share_certificate
 
+NPM : 
+🚀 https://www.npmjs.com/package/wc-stencil-stock-widget
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhtweets_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhtweets_" height="30" width="40" /> @shubhtweets_</a>
