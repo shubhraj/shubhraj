@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on technologies related to <strong>Javascript</strong> Family
+- 🔭 Experienced Web Developer with 8+ years of expertise in JavaScript for both client-side and server-side development. Passionate about building high-quality, user-friendly and scalable applications![image](https://github.com/user-attachments/assets/33b938c3-da0d-4f50-83bb-e5ca13c6a2b9)
+
 
 📜 Here are my recent Certifications:
 
